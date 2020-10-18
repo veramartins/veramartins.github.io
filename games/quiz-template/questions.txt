@@ -1,0 +1,223 @@
+What's 22+50?;
+Twenty-two;
+Seventy-two;
+Fifty;
+Sixty;
+Seventy-two;
+|
+What's 40+15?;
+Forty-five;
+Twenty;
+Five;
+Fifty-five;
+Fifty-five;
+|
+What's 98+2?;
+Ninety-six;
+Eighty-eight;
+A hundred;
+Ninety;
+A hundred;
+|
+What's 100-70?;
+Three;
+Thirteen;
+Thirty;
+Thirty-three;
+Thirty;
+|
+What's 54+6?;
+Six;
+Sixteen;
+Sixty-six;
+Sixty;
+Sixty;
+|
+What's 28-10?;
+Eighty-eight;
+Eight;
+Eighteen;
+Ten;
+Eighteen;
+|
+What's 91-10?;
+Ninety-one;
+Eighty-one;
+A hundred and one;
+Eleven;
+Eighty-one;
+|
+What's 55-40?;
+Fifteen;
+Five;
+Fifty;
+Fourteen;
+Fifteen;
+|
+What's 14+40?;
+Fourteen;
+Forty-four;
+Forty;
+Fifty-four;
+Fifty-four;
+|
+What's 10+10?;
+Twenty;
+Twelve;
+Two;
+Twenty-two;
+Twenty;
+|
+What's 13+17?;
+Twenty;
+Forty;
+Thirty;
+Thirteen;
+Thirty;
+|
+What's 49+51?;
+Forty-nine;
+Fifty-one;
+Ninety-nine;
+A hundred;
+A hundred;
+|
+What's 100-29?;
+Twenty-nine;
+Fifty-one;
+Seventy-one;
+A hundred;
+Seventy-one;
+|
+What's 90+6?;
+A hundred and five;
+Sixteen;
+Ninety-six;
+A hundred and six;
+Ninety-six;
+|
+What's 4+3?;
+Seven;
+Seventeen;
+Seventy;
+One;
+Seven;
+|
+What's 10-2?;
+Nine;
+Eight;
+Eleven;
+Twelve;
+Eight;
+|
+What's 22+51?;
+Twenty-two;
+Seventy-three;
+Fifty;
+Sixty;
+Seventy-three;
+|
+What's 41+15?;
+Forty-five;
+Twenty;
+Five;
+Fifty-six;
+Fifty-six;
+|
+What's 97+1?;
+Ninety-six;
+Ninety-eight;
+Ninety-nine;
+A hundred;
+Ninety-eight;
+|
+What's 100-80?;
+Three;
+Thirteen;
+Twenty;
+Thirty;
+Twenty;
+|
+What's 58+8?;
+Six;
+Sixteen;
+Sixty-six;
+Sixty;
+Sixty-six;
+|
+What's 28-18?;
+Eighty-eight;
+Eight;
+Eighteen;
+Ten;
+Ten;
+|
+What's 91-9?;
+Ninety-one;
+Eighty-two;
+A hundred and one;
+Eleven;
+Eighty-two;
+|
+What's 56-40?;
+Fifteen;
+Four;
+Fifty-four;
+Fourteen;
+Fourteen;
+|
+What's 15+50?;
+Fourteen;
+Sixty-five;
+Forty;
+Sixty;
+Sixty-five;
+|
+What's 11+11?;
+Twenty;
+Twelve;
+Two;
+Twenty-two;
+Twenty-two;
+|
+What's 15+15?;
+Twenty;
+Forty;
+Thirty;
+Thirteen;
+Thirty;
+|
+What's 49+49?;
+Forty-nine;
+Fifty-one;
+Ninety-nine;
+Ninety-eight;
+Ninety-eight;
+|
+What's 100-99?;
+Twenty-nine;
+One;
+Seventy-one;
+A hundred;
+One;
+|
+What's 10+6?;
+Twenty-five;
+Sixteen;
+Ninety-six;
+Twenty-six;
+Sixteen;
+|
+What's 25-12?;
+Twelve;
+Thirteen;
+Fourteen;
+Fifteen;
+Thirteen;
+|
+What's 22+15?;
+Forty-seven;
+Thirty-seven;
+Thirty-three;
+Twenty-seven;
+Thirty-seven;
